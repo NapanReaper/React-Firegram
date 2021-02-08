@@ -1,11 +1,14 @@
 import Title from "./comps/Title";
+import UploadForm from "./comps/UploadForm";
 
 function App() {
   return (
     <div className="App">
       <Title />
+      <UploadForm />
     </div>
   );
 }
 
 export default App;
+// Your web app's Firebase configuration
